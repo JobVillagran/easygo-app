@@ -1,8 +1,6 @@
 # easygo-app
 Desarrollo con Angular, PHP y MySQL
 
-# EasyGoTest
-
 <br>
 
 <body>
